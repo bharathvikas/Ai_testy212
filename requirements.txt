@@ -1,0 +1,10 @@
+# requirements.txt — Streamlit Cloud Mobile App
+
+# Lightweight: no TensorFlow, no heavy models
+
+streamlit>=1.32.0
+yfinance>=0.2.36
+pandas>=2.0.0
+numpy>=1.24.0
+vaderSentiment>=3.3.2
+matplotlib>=3.7.0
